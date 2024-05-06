@@ -1,6 +1,6 @@
 {
   "name": "examples-next-app-dir-new",
-  "private": true,
+  "private": false,
   "type": "module",
   "scripts": {
     "build": "next build",
